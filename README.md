@@ -1,16 +1,16 @@
 # First Web App - Project 1 ( html - css )
 
 ### Instructions
-    - clone this repository to your local mashine
-    - add index.html to root folder
-    - create html std. markup (head etc.)
-    - set browser language to "de"
-    - set document titlte to "My first Web App"
-    - import style sheet and js files from folders
-    - run code in your browser
+- clone this repository to your local mashine
+- add index.html to root folder
+- create html std. markup (head etc.)
+- set browser language to "de"
+- set document titlte to "My first Web App"
+- import style sheet and js files from folders
+- run code in your browser
 
 ### Important
-    **Your code needs to have one element each with following id names**
+**Your code needs to have one element each with following id names**
 
     "appWrapper"    // div or section or semantic tag
     "mainSection"   // div or section or semantic tag
