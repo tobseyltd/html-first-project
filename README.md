@@ -2,6 +2,7 @@
 
 ### Instructions
 
+-   [ ] create a repository in your github account
 -   [ ] clone this repository to your local mashine
 -   [ ] add index.html to root folder
 -   [ ] create html std. markup (head etc.)
