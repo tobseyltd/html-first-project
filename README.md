@@ -1,6 +1,6 @@
 # First Web App - Project 1 ( html - css )
 
-### **Instructions**
+### Instructions
     - clone this repository to your local mashine
     - add index.html to root folder
     - create html std. markup (head etc.)
@@ -9,14 +9,14 @@
     - import style sheet and js files from folders
     - run code in your browser
 
-## **Important**
+### Important
     **Your code needs to have one element each with following id names**
 
-    - "appWrapper"    // div or section or semantic tag
-    - "mainSection"   // div or section or semantic tag
-    - "appPopup"      // div or section or semantic tag
-    - "userName"      // p tag
-    - "appButton"     // button tag
+    "appWrapper"    // div or section or semantic tag
+    "mainSection"   // div or section or semantic tag
+    "appPopup"      // div or section or semantic tag
+    "userName"      // p tag
+    "appButton"     // button tag
 
 
 ### External Sources
