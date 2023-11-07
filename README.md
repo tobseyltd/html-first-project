@@ -9,6 +9,11 @@
     - import style sheet and js files from folders
     - run code in your browser
 
+**Important**
+    > Your code needs to have one element each with following id names
+    *"appWrapper"*
+
+
 ### External Sources
     - https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js
 
