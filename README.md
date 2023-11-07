@@ -24,7 +24,7 @@
 
 ### External Script Sources
 
-    - https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js
+    https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js
 
 ### Tips
 
