@@ -10,13 +10,13 @@
     - run code in your browser
 
 ## **Important**
-    > Your code needs to have one element each with following id names
+    **Your code needs to have one element each with following id names**
 
-    - *appWrapper*    // div or section or semantic tag
-    - *"mainSection"*   // div or section or semantic tag
-    - *"appPopup"*      // div or section or semantic tag
-    - *"userName"*      // p tag
-    - *"appButton"*     // button tag
+    - "appWrapper"    // div or section or semantic tag
+    - "mainSection"   // div or section or semantic tag
+    - "appPopup"      // div or section or semantic tag
+    - "userName"      // p tag
+    - "appButton"     // button tag
 
 
 ### External Sources
