@@ -10,7 +10,7 @@
 - [ ] run code in your browser
 
 ### Structure
->
+![html structure]((/assets/images/structure-snippet.png))
 
 ### Important
     Your code needs to have one element each with following id names
