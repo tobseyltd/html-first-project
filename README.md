@@ -2,12 +2,12 @@
 
 ### Instructions
 - [ ] clone this repository to your local mashine
-- add index.html to root folder
-- create html std. markup (head etc.)
-- set browser language to "de"
-- set document titlte to "My first Web App"
-- import style sheet and js files from folders
-- run code in your browser
+- [ ] add index.html to root folder
+- [ ] create html std. markup (head etc.)
+- [ ] set browser language to "de"
+- [ ] set document titlte to "My first Web App"
+- [ ] import style sheet and js files from folders
+- [ ] run code in your browser
 
 ### Structure
 >
@@ -26,6 +26,8 @@
     - https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js
 
 ### Tips
+- go step by step in instructions
+- after every step edit this file and set instruction task finised and commit code to repository
 - use emmet for Alias of html:5
 - use semantic div tags for better code understanding
 - use your cheat sheets
