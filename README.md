@@ -33,8 +33,10 @@
 -   use emmet for Alias of html:5
 -   use semantic div tags for better code understanding
 -   don't forget to set alt text for images
+-   set a img width of 300px
+-   inside p tag add your first name
 -   use your cheat sheets
 
 ### Structure
 
-![html structure](/assets/images/structure-snippet.png)
+![html structure](/assets/images/structure-img.png)
