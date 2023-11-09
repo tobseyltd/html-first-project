@@ -26,6 +26,8 @@
 
     https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js
 
+    <script src="./js/app.js" type="text/javascript" defer></script>
+
 ### Tips
 
 -   go step by step in instructions
